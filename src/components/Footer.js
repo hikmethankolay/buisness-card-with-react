@@ -6,10 +6,10 @@ import { ReactComponent as Twitter } from '../images/twitter.svg';
 function Footer(){
     return(
         <div className="footer">
-            <a href="https://x.com/Hikmethan_Kolay" target="_blank"><Twitter/></a>
-            <a href="https://www.facebook.com/hikmethan.kolay.5/" target="_blank"><Facebook/></a>
-            <a href="https://www.instagram.com/hikmethan.kolay/" target="_blank"><Instagram/></a>
-            <a href="https://github.com/hikmethankolay" target="_blank"><Github/></a>
+            <a href="https://x.com/Hikmethan_Kolay" target="_blank" rel="noreferrer"><Twitter/></a>
+            <a href="https://www.facebook.com/hikmethan.kolay.5/" target="_blank" rel="noreferrer"><Facebook/></a>
+            <a href="https://www.instagram.com/hikmethan.kolay/" target="_blank" rel="noreferrer"><Instagram/></a>
+            <a href="https://github.com/hikmethankolay" target="_blank" rel="noreferrer"><Github/></a>
         </div>
     )
 }
