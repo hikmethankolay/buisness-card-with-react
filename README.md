@@ -1,5 +1,7 @@
 # Business card with React Framework
 
+You can view my business card from [here](https://hikmethankolay.github.io/business-card-with-react/)
+
 In the project directory, you can run:
 
 ### `npm start`
