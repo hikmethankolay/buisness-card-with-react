@@ -1,4 +1,4 @@
-# Buisness card with React Framework
+# Business card with React Framework
 
 In the project directory, you can run:
 
