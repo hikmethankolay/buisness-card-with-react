@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/buisness-card-with-react/static/css/main.762ba4d8.css",
-    "main.js": "/buisness-card-with-react/static/js/main.81711aea.js",
+    "main.js": "/buisness-card-with-react/static/js/main.72c5f23f.js",
     "static/media/person-image.png": "/buisness-card-with-react/static/media/person-image.e55bb880da370175bc80.png",
     "static/media/instagram.svg": "/buisness-card-with-react/static/media/instagram.c2916214877b68106481508eaba0e9d9.svg",
     "static/media/github.svg": "/buisness-card-with-react/static/media/github.fa64fd12117af4d68697a40027ed0bc6.svg",
@@ -11,10 +11,10 @@
     "static/media/facebook.svg": "/buisness-card-with-react/static/media/facebook.2ab2e23893dc0656d11fbd5244228586.svg",
     "static/media/e-mail.svg": "/buisness-card-with-react/static/media/e-mail.c14ad4bbfbfc0a37a4aa2c0c1a94a4ee.svg",
     "main.762ba4d8.css.map": "/buisness-card-with-react/static/css/main.762ba4d8.css.map",
-    "main.81711aea.js.map": "/buisness-card-with-react/static/js/main.81711aea.js.map"
+    "main.72c5f23f.js.map": "/buisness-card-with-react/static/js/main.72c5f23f.js.map"
   },
   "entrypoints": [
     "static/css/main.762ba4d8.css",
-    "static/js/main.81711aea.js"
+    "static/js/main.72c5f23f.js"
   ]
 }
