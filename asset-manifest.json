@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/buisness-card-with-react/static/css/main.657c6e05.css",
+    "main.js": "/buisness-card-with-react/static/js/main.f9cb7a2f.js",
+    "static/media/person-image.png": "/buisness-card-with-react/static/media/person-image.e55bb880da370175bc80.png",
+    "static/media/instagram.svg": "/buisness-card-with-react/static/media/instagram.c2916214877b68106481508eaba0e9d9.svg",
+    "static/media/github.svg": "/buisness-card-with-react/static/media/github.fa64fd12117af4d68697a40027ed0bc6.svg",
+    "static/media/twitter.svg": "/buisness-card-with-react/static/media/twitter.d4f2bf6d8671dff888830735da01b95c.svg",
+    "static/media/liked-in.svg": "/buisness-card-with-react/static/media/liked-in.ae790c645bedc598ec45f81a12fb0179.svg",
+    "index.html": "/buisness-card-with-react/index.html",
+    "static/media/facebook.svg": "/buisness-card-with-react/static/media/facebook.2ab2e23893dc0656d11fbd5244228586.svg",
+    "static/media/e-mail.svg": "/buisness-card-with-react/static/media/e-mail.c14ad4bbfbfc0a37a4aa2c0c1a94a4ee.svg",
+    "main.657c6e05.css.map": "/buisness-card-with-react/static/css/main.657c6e05.css.map",
+    "main.f9cb7a2f.js.map": "/buisness-card-with-react/static/js/main.f9cb7a2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657c6e05.css",
+    "static/js/main.f9cb7a2f.js"
+  ]
+}
